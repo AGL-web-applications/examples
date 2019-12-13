@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Some examples
+- WebGL HexGL racing game <http://hexgl.bkcore.com/play/>
+- Other WebGL demo controlled with the webcam <https://trackingjs.com/examples/face_fish_tank.html>
+- Webcam facial expression recognition <https://justadudewhohacks.github.io/face-api.js/webcam_face_expression_recognition>
+- Web Assembly karting demo <https://www.funkykarts.rocks/demo.html>
+- Recording microphone test <https://voice-memos.appspot.com/>
+- Test YouTube from the browser <https://www.youtube.com/watch?v=O7ZGRHTKmlg>
 
-You can use the [editor on GitHub](https://github.com/AGL-web-applications/samples.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AGL-web-applications/samples.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Code snippets of demo platform webapps
+- Configuration of the homescreen <https://github.com/AGL-web-applications/homescreen/blob/master/src/config.xml>
+- Index of launcher webapp <https://gerrit.automotivelinux.org/gerrit/gitweb?p=apps/html5-launcher.git;a=blob;f=src/index.html;hb=HEAD>
+- Connecting to websockets <https://github.com/AGL-web-applications/agl-js-api/blob/master/src/audiomixer.js>
