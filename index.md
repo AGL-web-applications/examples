@@ -3,7 +3,7 @@
 - Other WebGL demo controlled with the webcam <https://trackingjs.com/examples/face_fish_tank.html>
 - Generic WebGL samples <https://webglsamples.org/>
 - Webcam facial expression recognition <https://justadudewhohacks.github.io/face-api.js/webcam_face_expression_recognition>
-- WebRTC based video chat demo <https://appr.tc/r/agl-demo>
+- WebRTC based video chat demo <https://meet.jit.si/agl>
 - WebAssembly karting demo <https://www.funkykarts.rocks/demo.html>
 - Recording microphone test <https://voice-memos.appspot.com/>
 - Test YouTube from the browser <https://www.youtube.com/watch?v=O7ZGRHTKmlg>
